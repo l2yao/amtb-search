@@ -1,3 +1,7 @@
-# amtb-gpt
+# amtb-search
 
-all the tools needed to Create a AMTB GPT, a customized GPT to answer questions in [AMTB](https://www.amtb.tw/#/home)
+Semantic search for traditional chinese culture, including confusious, taoism, buddhism.
+
+List of docs being used:
+
+* https://github.com/l2yao/amtb/tree/main/doc
