@@ -7,6 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pypdf = "^3.17.0"
+llama-index = {version = "^0.8.68", python = ">=3.11,<3.12"}
 
 
 [build-system]
